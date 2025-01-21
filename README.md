@@ -12,8 +12,6 @@ penitipan_barang/
 │   └── server.py  
 ├── soal.md
 ```
-
-## Fitur Utama
 - **CRUD (Create, Read, Update, Delete)** barang dengan menggunakan REST API.
 - Penyimpanan data barang menggunakan struktur list yang sederhana.
 - Pemisahan antara barang yang dititipkan dan juga barang yang sudah diambil.
@@ -25,8 +23,7 @@ penitipan_barang/
 - **Library:** Requests
 - **Tools:** Visual Studio Code, IDLE (Python)
 
-## Cara Menjalankan Program
-
+## Cara Menjalankan Programnya :
 ### 1. Menjalankan Server
 1. Buka terminal dan navigasikan ke folder `server/`.
 2. Jalankan perintah berikut:
