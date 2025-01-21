@@ -1,7 +1,6 @@
+# Sistem Penitipan Barang
 ### Nama: Qhomar Latif Praditya
 ### NIM : 23.83.0990
-
-# Sistem Penitipan Barang
 
 ## Deskripsi 
 Project ini adalah sistem penitipan barang berbasis Python dan menggunakan Flask sebagai backend REST API dan aplikasi berbasis terminal/CLI sebagai clientnya.
