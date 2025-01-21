@@ -1,5 +1,5 @@
-## Nama: Qhomar Latif Praditya
-## NIM : 23.83.0990
+### Nama: Qhomar Latif Praditya
+### NIM : 23.83.0990
 
 # Sistem Penitipan Barang
 
