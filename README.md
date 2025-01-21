@@ -17,13 +17,13 @@ penitipan_barang/
 - Pemisahan antara barang yang dititipkan dan juga barang yang sudah diambil.
 - CLI(Command Line Interface) untuk interaksi pengguna.
 
-## Tools yang Digunakan
+### Tools yang Digunakan
 - **Bahasa Pemrograman:** Python 
 - **Framework:** Flask
 - **Library:** Requests
 - **Tools:** Visual Studio Code, IDLE (Python)
 
-## Cara Menjalankan Programnya :
+### Cara Menjalankan Programnya :
 ### 1. Menjalankan Server
 1. Buka terminal dan navigasikan ke folder `server/`.
 2. Jalankan perintah berikut:
@@ -40,7 +40,7 @@ penitipan_barang/
    ```
 3. Ikuti instruksi yang ada pada cli untuk mengelola barang.
 
-## Endpoint API
+### Endpoint API
 | Metode | Endpoint          | Deskripsi                        |
 |--------|------------------|----------------------------------|
 | GET    | /items            | Melihat daftar barang           |
@@ -49,7 +49,7 @@ penitipan_barang/
 | DELETE | /items/<id>       | Menghapus barang berdasarkan ID |
 | POST   | /items/take/<id>  | Mengambil barang berdasarkan ID |
 
-## Contoh Penggunaan API dengan Curl
+### Contoh Penggunaan API dengan Curl
 - Menambahkan barang:
   ```bash
   curl -X POST http://127.0.0.1:5000/items -H "Content-Type: application/json" -d '{"id":1, "nama":"Laptop", "pemilik":"John"}'
